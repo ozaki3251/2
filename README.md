@@ -13,5 +13,4 @@ h1{
 </style>
 </head>
 <body>
-  <h1><a href="https://ko.wikipedia.org/wiki/%EB%85%B8%EB%8F%99%EC%9E%90"
-  title="노동자란?"style="color:red; text-decoration: none;">Workers</a></h1>
+  <h1><a href="https://ko.wikipedia.org/wiki/%EB%85%B8%EB%8F%99%EC%9E%90" title="노동자란?"style="color:red; text-decoration:none;">Workers</a></h1>
